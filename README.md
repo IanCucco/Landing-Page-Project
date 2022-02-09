@@ -1,2 +1,2 @@
-# Landing-Page-Project
+# landing-page-project
 Project Odin homepage re-creation project
